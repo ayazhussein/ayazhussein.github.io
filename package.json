@@ -1,0 +1,19 @@
+{
+  "name": "homepage",
+  "version": "0.0.1",
+  "description": "Home Page",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ayazhussein/ayazhussein.github.io.git"
+  },
+  "author": "Ayaz Hussein",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ayazhussein/ayazhussein.github.io/issues"
+  },
+  "homepage": "https://github.com/ayazhussein/ayazhussein.github.io#readme"
+}
